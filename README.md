@@ -57,11 +57,18 @@ While completing this challenge, I gained practical experience with:
 
 ```text
 .
-├── app.py
-├── Dockerfile
-├── docker-compose.yml
-├── requirements.txt
-└── README.md
+Docker/
+├── coderco-challenge/
+│   ├── Dockerfile
+│   ├── count.py
+│   ├── docker-compose.yml
+│   └── nginx.conf
+└── hello_flask/
+    ├── app.py
+    ├── Dockerfile
+    ├── docker-compose.yml
+    ├── requirements.txt
+    └── README.md
 ```
 
 ## 📌 Future Improvements
